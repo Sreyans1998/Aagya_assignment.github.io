@@ -1,0 +1,19 @@
+.dashboard{
+    height: 100vh;
+}
+.nav-item{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.menu_active{
+    color: white;
+}
+.form{
+    width:65%;
+    height: 60vh;
+    position: absolute;
+    margin: 10% 0 0 17.5%;
+}
+.w-30{
+    width: 30%;
+}
